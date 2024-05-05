@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on apps and games projects
 - 📫 Email - hnrqnora@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like socks
+- ⚡ Fun fact: I like socks, and music
 
 <!---
 Pede-meia/Pede-meia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
