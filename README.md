@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, games and app development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on apps and games projects
-- 📫 How to reach me email - hnrqnora@gmail.com
+- 📫 Email - hnrqnora@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like socks
 
